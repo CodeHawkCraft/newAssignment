@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { Upload } from 'lucide-react';
 import { useEffect } from 'react';
